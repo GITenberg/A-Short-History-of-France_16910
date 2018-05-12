@@ -1,0 +1,29 @@
+_repo: A-Short-History-of-France_16910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parmele, Mary Platt
+    birthdate: 1843
+    deathdate: 1911
+    gutenberg_agent_id: '7014'
+    url: http://www.gutenberg.org/2009/agents/7014
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Platt_Parmele
+description: This short history of France outlines everything from its origins to
+  Napoleon and present (1898) conditions; the section on Louis XIV begins on page
+  77.
+gutenberg_issued: '2005-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History'
+title: A Short History of France
+url: http://www.gutenberg.org/ebooks/16910
