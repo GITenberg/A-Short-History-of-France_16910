@@ -14,6 +14,8 @@ creator:
 description: This short history of France outlines everything from its origins to
   Napoleon and present (1898) conditions; the section on Louis XIV begins on page
   77.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16910#A-Short-History-of-France
 gutenberg_issued: '2005-10-20'
 gutenberg_type: Text
 identifiers:
